@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Photonnnn
 - 👀 I’m interested in Physics.
-- 🌱 I’m currently learning fortran and python.
-- 💞️ I’m looking to collaborate on study.
+- 🌱 I’m currently learning Physics.
+- 💞️ I’m looking to study Physics.
 - 📫 How to reach me? Please send an email to photon2002@qq.com.
 
 <!---
